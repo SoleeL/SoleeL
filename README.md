@@ -28,8 +28,6 @@
 <a href="https://twitter.com/soleel07" target="blank"> <img align="center" src="https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="SoleeL07"/> </a>
 <a href="https://stackoverflow.com/users/14995689" target="blank"><img align="center" src="https://img.shields.io/badge/Stack-darkorange?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="SoleeL"/></a>
 <a href="https://www.hackerrank.com/SoleeL" target="blank"><img align="center" src="https://img.shields.io/badge/hacker-lightgrey?&style=for-the-badge&logo=hackerrank&logoColor=white" alt="SoleeL"/></a>
-
-
 <a href="https://www.twitch.tv/soleel" target="blank"><img align="center" src="https://img.shields.io/badge/twitch-purple?&style=for-the-badge&logo=twitch&logoColor=white" alt="SoleeL"/></a>
 <a href="https://discord.gg/dCYx6cXkv5" target="blank"><img align="center" src="https://img.shields.io/badge/discord-darkslateblue?&style=for-the-badge&logo=discord&logoColor=white" alt="SoleeL"/></a>
 </p>
