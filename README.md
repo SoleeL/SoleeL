@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Carlos "SoleeL" Núñez</h1>
-<h3 align="center">A junior web developer from Chile</h3>
+<h2 align="center">A junior web developer from Chile</h2>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=soleel&style=flat-square"/> </p>
+
+<h3 aling="left"> About me</h3>
 
 -   🔭 I’m currently working on **developing my personal website**.
 
@@ -23,6 +27,8 @@
 <a href="https://twitter.com/soleel07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="soleel07" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/carlos-nolasco-núñez-riquelme-68a19816b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="carlos-nolasco-núñez-riquelme-68a19816b" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14995689" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14995689" height="30" width="40" /></a>
+<!-- TODO cambiar el enlace a hackerrank -->
+<a href="https://www.hackerrank.com/@chowrasia_akash1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@chowrasia_akash1" height="30" width="40" /></a>
 <a href="https://instagram.com/soleel07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="soleel07" height="30" width="40" /></a>
 <a href="https://medium.com/@soleel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@soleel" height="30" width="40" /></a>
 <a href="https://discord.gg/dCYx6cXkv5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="dCYx6cXkv5" height="30" width="40" /></a>
