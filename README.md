@@ -5,21 +5,19 @@
 
 <h3 aling="left"> About me</h3>
 
--   🔭 I’m currently working on **developing my personal website**.
+-   🔭 I’m currently working on **developing my personal website**, [soleel.cl](soleel.cl).
 
--   🌱 I’m currently learning **Sanity**.
+-   🌱 I’m currently learning **Gurobi**, **Cassandra** and FastAPI.
 
 -   🤝 I’m looking for help with [FastAPI](https://fastapi.tiangolo.com/).
 
 -   👨‍💻 All of my projects are available at [this github](https://github.com/SoleeL?tab=repositories).
 
--   📝 I regularly write articles on [soleel.cl](soleel.cl)
-
--   💬 Ask me about **JavaScript development**.
+-   💬 Ask me about **Python development**.
 
 -   📫 You can reach me **carlosnr300@gmail.com**
 
--   📄 Know about my experiences [on my portfolio (in progress)](https://soleel.cl/portfolio)
+-   📄 [Pending Issue] Know about my experiences [on my portfolio (in progress)](https://soleel.cl/portfolio)
 
 ### Connect with me
 <p align="center">
